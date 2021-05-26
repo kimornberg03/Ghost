@@ -1,1 +1,0 @@
-Detta är en Cryptochat där varje bokstav i meddelandet flyttas fram ett steg, a blir alltså b osv. Det går både att cryptera och decryptera Innan man kan skriva i chatten måste man logga in där lösenordet är qwerty. Jag döpte detta till Ghost eftersom man inte kan se meddelandet i dess normala form, precis som ett "Ghost".
